@@ -1,7 +1,7 @@
 # #!/bin/bash
 
 # # Set variables
-# BUCKET_NAME="ekshtein-chani-react-app-bucket"
+# BUCKET_NAME="my-react-ap-bucket"
 # BRANCH="main"  # Specify the branch name explicitly
 
 # # Log function for better output readability
